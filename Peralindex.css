@@ -1,0 +1,37 @@
+h1{
+	
+	background-color: #4C64E8;
+	font-family: monospace ;
+}
+
+h2{
+	color: blue; background-color: yellow;
+}
+.cuerpo{
+	font-family: sans-serif;
+	font-weight: 300;
+	display: block;
+	margin:auto;
+	text-align: center; 
+	margin: 50px;
+
+
+}
+.parte1{
+	background-color: #437E95; font: white;
+
+}
+
+.parte2{
+	background-color: #B77C30; color: white;
+}
+
+.parte3{
+	background-color: #C7C3C2; color: olive;
+}
+
+img{
+	
+	size: 100px;
+
+}

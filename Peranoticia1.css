@@ -1,0 +1,21 @@
+.cuerpo{
+	font-family: sans-serif;
+	font-weight: 300;
+	display: block;
+	margin:auto;
+	text-align: center; 
+	margin: 50px;
+	border: solid;
+	background-color: #ffe699
+
+}
+h1{
+	color: #25AAE0;
+	background-color: black;
+
+
+.cuerpo li {
+	list-style: none;
+	border: 2px	solid black;
+	display: inline-block;
+}
